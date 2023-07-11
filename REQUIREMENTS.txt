@@ -1,0 +1,17 @@
+<---------REQUIREMENTS----------->
+
+****PYTHON****
+
+1)Python (Version 3.7 or Above) (recommended)
+2)mysql.connector module 
+
+(IF MODULE NOT INSTALLED , OPEN CMD(WINDOWS) OR TERMINAL(LINUX) IN PYTHON ROOT DIRECTORY AND TYPE pip install mysql)
+
+****MYSQL*****
+
+1)MySQL Community Server
+2)Server version: 8.0.31 ot higher (recommended)
+
+(NOTE - THE DEFAULT USERNAME IS 'root' AND HOST is 'localhost'. IF A DIFFERENT USERNAME OR HOSTNAME IS USED , PLEASE MAKE THE REQUIRED CHANGES IN THE
+database-creator.py AND wordle-brute-2.py)
+
