@@ -10,7 +10,7 @@
 ****MYSQL*****
 
 1)MySQL Community Server
-2)Server version: 8.0.31 ot higher (recommended)
+2)Server version: 8.0.31 or higher (recommended)
 
 (NOTE - THE DEFAULT USERNAME IS 'root' AND HOST is 'localhost'. IF A DIFFERENT USERNAME OR HOSTNAME IS USED , PLEASE MAKE THE REQUIRED CHANGES IN THE
 database-creator.py AND wordle-brute-2.py)
